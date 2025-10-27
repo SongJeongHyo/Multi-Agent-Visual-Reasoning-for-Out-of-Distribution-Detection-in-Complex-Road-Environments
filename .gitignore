@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# API Keys
+config.py
+.env*
+
+# Large Model Weights
+*.pth
+*.pth.tar
+*.ckpt
+*.onnx
+
+# OS
+.DS_Store
+
+# Local Installers
+*.deb
+
+# Outputs
+outputs/
+results/
+output/
+ablation/
+*.log
