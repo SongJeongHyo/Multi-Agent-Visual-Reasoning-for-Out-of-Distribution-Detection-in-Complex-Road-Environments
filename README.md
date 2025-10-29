@@ -1,5 +1,5 @@
-# Multi-Agent-Visual-Reasoning-for-Out-of-Distribution-Detection-in-Complex-Road-Environments
-Multi-Agent Visual Reasoning for OOD Detection (IEEE Access 2025)
+# Multi-Agent Visual Reasoning for Out-of-Distribution Detection in Complex Road Environments
+IEEE Access 2025
 
 <!-- [Paper (IEEE Access)] | [ArXiv (TBD)] | [Project Page (TBD)]
 
@@ -25,8 +25,8 @@ To address these fundamental limitations, we propose a novel multi-agent visual 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/SongJeongHyo/Multi-Agent-Visual-Reasoning-for-Out-of-Distribution-Detection-in-Complex-Road-Environments.git
-    cd Multi-Agent-Visual-Reasoning-for-Out-of-Distribution-Detection-in-Complex-Road-Environments
+    git clone https://github.com/SongJeongHyo/MAVR-OOD.git
+    cd MAVR-OOD
 
     ```
 
